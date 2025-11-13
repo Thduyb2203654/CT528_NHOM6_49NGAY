@@ -1,0 +1,42 @@
+[
+	{
+		"title": "first",
+		"tags": "",
+		"body": "<< nameTag vong>>\nChào Linh\n<< nameTag player>>\nĐây là đâu? Tại sao tôi lại ở đây? \nĐây là giấc mơ hả?\n<< nameTag vong>>\nTôi là vong hồn của bạn.\nBạn đã mất rồi. Đây là địa ngục.\n<< nameTag player>>\nTôi không nhớ tại sao tôi lại mất.\nTôi đang đi dã ngoại mà. Có chuyện gì đã xảy ra vậy?\n<< nameTag vong>>\nTôi là vong hồn của bạn.\nBạn đã mất rồi. Đây là địa ngục.\nHãy cùng tôi cùng khám phá bí mật về cái chết.\n[[ Đi thôi |play]]\n[[ Tôi không muốn biết. |quit]]",
+		"position": {
+			"x": 257,
+			"y": 1
+		},
+		"colorID": 0
+	},
+	{
+		"title": "play",
+		"tags": "",
+		"body": "<< nameTag vong>>\nBắt đầu thôi.",
+		"position": {
+			"x": 43,
+			"y": 212
+		},
+		"colorID": 0
+	},
+	{
+		"title": "quit",
+		"tags": "",
+		"body": "<< nameTag vong>>\nĐầu trâu mặt ngựa sẽ dẫn bạn đi chỗ khác.",
+		"position": {
+			"x": 444,
+			"y": 220
+		},
+		"colorID": 0
+	},
+	{
+		"title": "second",
+		"tags": "",
+		"body": "<< nameTag vong>> \nHãy cũng tôi tìm hiểu về bí mật của cái chết.\n[[ Được thôi |play]]\n[[ Tôi không muốn |quit]]",
+		"position": {
+			"x": 246,
+			"y": 434
+		},
+		"colorID": 0
+	}
+]
